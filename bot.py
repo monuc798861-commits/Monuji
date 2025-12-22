@@ -9,7 +9,7 @@ from telegram.ext import (
 import requests
 
 # ================== CONFIG ==================
-BOT_TOKEN = "8362894323:AAH0RpPmm4rfn7FrvZTmoB2cjybF7Rwbhsg"               # BotFather से मिला token
+BOT_TOKEN = "8540660925:AAE9YKg-RPga_L5yrA_wkBrA7Sol2p41MzE"               # BotFather से मिला token
 NUMVERIFY_API_KEY = "b75f9d6cc44a1e6af71246a18881e62f"  # numverify.com से API key
 # ============================================
 
